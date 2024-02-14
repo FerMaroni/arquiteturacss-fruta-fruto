@@ -13,4 +13,9 @@ HTML
 CSS
 Figma
 
+🛠️ Abrir e rodar o projeto
+Para abrir e rodar o projeto, utilize um editor de código de sua escolha.
+
+Depois, abra o projeto no seu navegador.
+
 Para acessar basta clicar aqui: https://arquiteturacss-fruta-fruto.vercel.app/
