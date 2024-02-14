@@ -5,10 +5,10 @@ Status do projeto: ✔️ Concluido
 
 Esse projeto foi feito através do curso da Alura de: Arquitetura CSS: descomplicando os problemas.
 
-📚 Mais informações do curso
+📚 Mais informações do curso:
 O Fruta&Fruto é uma empresa fictícia utilizada no curso da Alura.
 
-✔️ Técnicas e tecnologias utilizadas
+✔️ Técnicas e tecnologias utilizadas:
 HTML
 CSS
 Figma
